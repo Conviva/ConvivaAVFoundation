@@ -1,0 +1,6 @@
+This sample application demonstrates the pod and basic Conviva Integration to see the traffic on 
+Touchstone. Before you run the application please follow these steps
+
+1. Replace "CUSTOMER_ID" with your own customer id in ViewController.m file
+2. Replace "TOUCHSTONE_URL" with your own customer key in ViewController.m file
+3. Run pod install and launch the application
