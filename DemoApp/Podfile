@@ -6,6 +6,6 @@ target 'DemoApp' do
   # use_frameworks!
 
   # Pods for DemoApp
-pod 'ConvivaAVFoundation','3.0.0'
+pod 'ConvivaAVFoundation','3.0.1'
 
 end
