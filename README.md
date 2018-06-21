@@ -4,7 +4,7 @@ The ConvivaAVFoundation Framework supports cocoapods and manual installation. Th
 
 ## Migrating from Pre 3.0.0 version
 For customers who have already integrated pre 3.0.0 version of Conviva library, we recommend them to migrate to the latest 
-release 3.0.0. Please follow these two steps to migrate to 3.0.0 version
+release 3.0.1. Please follow these two steps to migrate to 3.0.1 version
   1. Remove libLivepass3AV.a from “Link Binary with Libraries” of xcode
   2. Remove the following header file from your application and follow either cocoapods or manual way of installation.
         * #import "LivePass.h"
