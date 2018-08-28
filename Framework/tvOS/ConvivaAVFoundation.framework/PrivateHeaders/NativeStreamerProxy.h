@@ -15,7 +15,6 @@
 - (instancetype)init NS_DESIGNATED_INITIALIZER;
 - (void)startPollStreamer:(NSArray *)events;
 - (void)endPollStreamer;
-- (void)updateBitrate:(NSArray *)events;
 - (void)pollStreamer;
 
 @end
