@@ -1,5 +1,10 @@
 # Changelog
 
+## 3.0.3 (10/26/2018)
+* Validated on iOS 12
+* Fixes bug related to AVPlayerItem change when CDN switches
+* Fixes buffer length related bug for live content
+
 ## 3.0.2 (08/28/2018)
 * Fixes incorrect bitrate reporting caused by unreported AVPlayerItem changes
 
