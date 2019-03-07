@@ -1,5 +1,8 @@
 # Changelog
 
+## 3.0.4 (03/07/2019)
+* Fixes a multithreading issue when AVPlayeritem changes due to CDN switch
+
 ## 3.0.3 (10/26/2018)
 * Validated on iOS 12
 * Fixes bug related to AVPlayerItem change when CDN switches
