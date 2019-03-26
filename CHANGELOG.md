@@ -1,5 +1,8 @@
 # Changelog
 
+## 3.0.5 (03/26/2019)
+* Fixes a random crash due to multiple deregistration of observers
+
 ## 3.0.4 (03/07/2019)
 * Fixes a multithreading issue when AVPlayeritem changes due to CDN switch
 
