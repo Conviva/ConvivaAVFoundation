@@ -1,5 +1,13 @@
 # Changelog
 
+## 3.0.6 (06/28/2019)
+* Includes info.plist files for ConvivaCore and ConvivaAVFoundation frameworks.
+* Added fix related to AVPlayer and AVPlayerItem which was causing crash for some users.
+* Displays log messages to indicate External Bitrate or Internal Bitrate.
+* There are metadata values which need to be updated before first video frame appears (Viewer ID, Stream Type, Player Name, Content Length, Custom Tags).
+* If any/all of these metadata values are not reported at the time of session creation, we log a warning for the same metadata value(s) from this release.
+* If any/all of these metadata values are not reported before first frame appears, we log an error for the same metadata value(s) from this release.
+
 ## 3.0.5 (03/26/2019)
 * Fixes a random crash due to multiple deregistration of observers
 
