@@ -1,5 +1,9 @@
 # Changelog
 
+## 3.0.7 (08/23/2019)
+* Supports iOS 12.3.
+* Introduces new API to report CDN server IP.
+
 ## 3.0.6 (06/28/2019)
 * Includes info.plist files for ConvivaCore and ConvivaAVFoundation frameworks.
 * Added fix related to AVPlayer and AVPlayerItem which was causing crash for some users.
