@@ -1,5 +1,8 @@
 # Changelog
 
+## 3.0.8 (11/11/2019)
+* Supports iOS 13.
+
 ## 3.0.7 (08/17/2019)
 * Supports iOS 12.3.
 * Introduces a new API for customers to set CDN Edge Server IP Address.
