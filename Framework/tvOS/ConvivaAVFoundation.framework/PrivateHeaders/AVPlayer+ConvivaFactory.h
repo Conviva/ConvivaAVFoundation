@@ -6,8 +6,9 @@
 //
 
 #import <AVFoundation/AVFoundation.h>
-@import ConvivaCore;
 
-@interface AVPlayer (ConvivaFactory)<ConvivaProxyFactory>
+@import ConvivaSDK;
+
+@interface AVPlayer (ConvivaFactory)<CISStreamerProxyFactoryProtocol>
 
 @end
