@@ -20,10 +20,11 @@ release 3.0.3. Please follow these two steps to migrate to 3.0.3 version
 ## Manual Installation
 To add the ConvivaAVFoundation library to your project manually:
 
-Note: **We recommend to include the ConvivaCore and ConvivaAVFoundation module of the same 
-      major version.**
+Note: **We recommend to include the ConvireCore (or) ConvivaSDK and ConvivaAVFoundation module of the same major version.**
 
-1.	Download the latest ConvivaCore [here](https://github.com/Conviva/ConvivaCore/archive/4.0.0.zip)
+1.	Download the latest ConvivaSDK [here](https://github.com/Conviva/ConvivaSDK/archive/4.0.0.zip) (or)
+        Download the latest ConvivaCore [here](https://github.com/Conviva/ConvivaCore/archive/3.1.9.zip)
+
 
 2.	Download the latest ConvivaAVFoundation Module [here](https://github.com/Conviva/ConvivaAVFoundation/archive/4.0.0.zip)
 
