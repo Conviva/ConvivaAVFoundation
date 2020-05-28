@@ -15,18 +15,18 @@ release 3.0.3. Please follow these two steps to migrate to 3.0.3 version
 ## Cocoapods Installation
     Add the following line to your pod file and run 'pod install'
 
-    pod 'ConvivaAVFoundation','4.0.0'
+    pod 'ConvivaAVFoundation','4.0.1'
 
 ## Manual Installation
 To add the ConvivaAVFoundation library to your project manually:
 
 Note: **We recommend to include the ConvireCore (or) ConvivaSDK and ConvivaAVFoundation module of the same major version.**
 
-1.	Download the latest ConvivaSDK [here](https://github.com/Conviva/ConvivaSDK/archive/4.0.0.zip) (or)
+1.	Download the latest ConvivaSDK [here](https://github.com/Conviva/ConvivaSDK/archive/4.0.1.zip) (or)
         Download the latest ConvivaCore [here](https://github.com/Conviva/ConvivaCore/archive/3.1.9.zip)
 
 
-2.	Download the latest ConvivaAVFoundation Module [here](https://github.com/Conviva/ConvivaAVFoundation/archive/4.0.0.zip)
+2.	Download the latest ConvivaAVFoundation Module [here](https://github.com/Conviva/ConvivaAVFoundation/archive/4.0.1.zip)
 
 3.	Unzip the package and add ConvivaCore.framework and ConvivaAVFoundation.framework to “Link Binary with Libraries” under build phase.The package contains framework for both iOS(Framework/iOS) and tvOS(Framework/tvOS). Please make sure to include the right framework to your xcode.
 
