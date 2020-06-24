@@ -1,7 +1,16 @@
 # Changelog
+
 ## 4.0.0/4.0.1 (05/29/2020)
 * Introduces a major upgrade to the SDK architecture that simplifies and accelerates Conviva integration.
 * Introduces CISAnalytics, CISVideoAnalytics, and CISAdAnalytics to simplify the integration of the SDK.
+
+## 3.1.11 (06/25/2020)
+* Support for auto detection of connection type (Ethernet) in tvOS.
+* Bug Fixes.
+
+## 3.0.11 (06/25/2020)
+* Support for auto detection of connection type (Ethernet) in tvOS.
+* Bug Fixes.
 
 ## 3.1.10 (04/22/2020)
 * Fixes an issue where same version is reported for both AdIdentifier enabled and disabled frameworks.
