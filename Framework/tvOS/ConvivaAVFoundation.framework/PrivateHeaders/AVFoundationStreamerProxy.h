@@ -9,9 +9,16 @@
 #import <AVFoundation/AVFoundation.h>
 #import "NativeStreamerProxy.h"
 
-@interface AVFoundationStreamerProxy : NativeStreamerProxy
+@import ConvivaSDK;
+
+@interface AVFoundationStreamerProxy : NativeStreamerProxy  <CISStreamerProxyProtocol>
 
 - (instancetype)init NS_UNAVAILABLE;
-- (instancetype)initWithStreamer:(AVPlayer *)streamer NS_DESIGNATED_INITIALIZER;
+
+- (instancetype)initWithStreamer:(AVPlayer *)streamer;
+
+- (instancetype)initWithStreamer:(AVPlayer *)streamer
+            playerEventsListener:(CISPlayerEventsListener)playerEventsListener
+                          logger:(id<CISLoggingProtocol>)logger;
 
 @end
