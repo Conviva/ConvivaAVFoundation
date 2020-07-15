@@ -1,5 +1,9 @@
 # Changelog
 
+## 4.0.4/4.0.5 (07/15/2020)
+
+* Fixes attachplayer issue when pausemonitor and attachstreamer methods are called back to back for legacy integration
+
 ## 4.0.2/4.0.3 (06/25/2020)
 
 * Support for auto detection of connection type (Ethernet) in tvOS.
