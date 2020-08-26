@@ -28,18 +28,23 @@ To add the ConvivaAVFoundation library to your project manually:
 
 Note: **We recommend to include the ConvireCore (or) ConvivaSDK and ConvivaAVFoundation module of the same major version.**
 
-1.	Download the latest ConvivaSDK from below path.
-    * [Without Advertising Identifier(IDFA) support](https://github.com/Conviva/ConvivaSDK/archive/4.0.5.zip)
-    OR
-    * [With Advertising Identifier(IDFA) support](https://github.com/Conviva/ConvivaSDK/archive/4.0.4.zip) 
-    OR
-    Download the latest ConvivaCore from below path.
-    * [Without Advertising Identifier(IDFA) support](https://github.com/Conviva/ConvivaCore/archive/3.1.10.zip)
-    OR
-    * [With Advertising Identifier(IDFA) support](https://github.com/Conviva/ConvivaCore/archive/3.0.10.zip)
+1.	Download the latest ConvivaSDK/ConvireCore from below paths.
+
+    * ConvivaSDK
+      *[Without Advertising Identifier(IDFA) support](https://github.com/Conviva/ConvivaSDK/archive/4.0.5.zip)
+      OR
+      *[With Advertising Identifier(IDFA) support](https://github.com/Conviva/ConvivaSDK/archive/4.0.4.zip) 
+      
+    * ConvivaCore
+      *[Without Advertising Identifier(IDFA) support](https://github.com/Conviva/ConvivaCore/archive/3.1.10.zip)
+      OR
+      *[With Advertising Identifier(IDFA) support](https://github.com/Conviva/ConvivaCore/archive/3.0.10.zip)
 
 
-2.	Download the latest ConvivaAVFoundation Module [here](https://github.com/Conviva/ConvivaAVFoundation/archive/4.0.5.zip)
+2.	Download the latest ConvivaAVFoundation Module from below path.
+    *[Without Advertising Identifier(IDFA) support](https://github.com/Conviva/ConvivaAVFoundation/archive/4.0.5.zip)
+    OR
+    *[With Advertising Identifier(IDFA) support](https://github.com/Conviva/ConvivaAVFoundation/archive/4.0.4.zip)
 
 3.	Unzip the package and add ConvivaCore.framework and ConvivaAVFoundation.framework to “Link Binary with Libraries” under build phase.The package contains framework for both iOS(Framework/iOS) and tvOS(Framework/tvOS). Please make sure to include the right framework to your xcode.
 
