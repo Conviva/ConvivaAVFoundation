@@ -28,7 +28,7 @@ To add the ConvivaAVFoundation library to your project manually:
 
 Note: **We recommend to include the ConvireCore (or) ConvivaSDK and ConvivaAVFoundation module of the same major version.**
 
-1.	Download the latest ConvivaSDK/ConvireCore from below paths.
+1.	Download the latest ConvivaSDK/ConvivaCore from below paths.
 
     * ConvivaSDK
       * [Without Advertising Identifier(IDFA) support](https://github.com/Conviva/ConvivaSDK/archive/4.0.5.zip)
