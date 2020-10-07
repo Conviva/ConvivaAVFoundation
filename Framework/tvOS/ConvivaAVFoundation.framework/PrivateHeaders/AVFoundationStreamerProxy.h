@@ -19,6 +19,6 @@
 
 - (instancetype)initWithStreamer:(AVPlayer *)streamer
             playerEventsListener:(CISPlayerEventsListener)playerEventsListener
-                          logger:(id<CISLoggingProtocol>)logger;
+                          logger:(id<CISLoggerProtocol>)logger;
 
 @end

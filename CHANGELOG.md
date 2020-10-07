@@ -1,5 +1,18 @@
 # Changelog
 
+## 4.0.7 (10/07/2020)
+* Supports iOS 14 
+* Using Network.framework to detect connection type for iOS/tvOS 12 and above
+* Using latest api "serviceCurrentRadioAccessTechnology" from CoreTelephony framework to detect cellular connection type for iOS 13 and above
+* Does not collect Advertising Identifier to comply with Apple guide lines.
+
+## 4.0.6 (10/07/2020)
+* Supports iOS 14 
+* Using Network.framework to detect connection type for iOS/tvOS 12 and above
+* Using latest api "serviceCurrentRadioAccessTechnology" from CoreTelephony framework to detect cellular connection type for iOS 13 and above
+* Using "AppTrackingTransparency" to collect Advertising Identifier from iOS 14 and above
+* Supports Advertising identifier collection
+
 ## 4.0.4/4.0.5 (07/15/2020)
 
 * Fixes attachplayer issue when pausemonitor and attachstreamer methods are called back to back for legacy integration

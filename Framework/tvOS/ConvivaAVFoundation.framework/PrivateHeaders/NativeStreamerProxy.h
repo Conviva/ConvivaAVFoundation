@@ -9,7 +9,7 @@
 @import ConvivaSDK;
 
 #define POLL_INTERVAL_SEC 0.2
-
+#define DROPPED_FRAMES_POLL_INTERVAL_SEC 0.5
 #define CDN_POLL_INTERVAL_SEC 4
 
 @interface NativeStreamerProxy : NSObject /*CISStreamerProxyImpl*/
@@ -21,9 +21,8 @@
 - (void)startPollStreamer:(NSArray *)events;
 - (void)endPollStreamer;
 - (void)pollStreamer;
-- (void)startCdnPollStreamer:(NSArray *)events;
-- (void)endCdnPollStreamer;
 - (void)cdnPollStreamer;
+- (void)droppedFramesPollStreamer;
 - (void) cleanup;
 
 @end
