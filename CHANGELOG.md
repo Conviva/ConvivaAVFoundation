@@ -32,6 +32,17 @@
 * Introduces a major upgrade to the SDK architecture that simplifies and accelerates Conviva integration.
 * Introduces CISAnalytics, CISVideoAnalytics, and CISAdAnalytics to simplify the integration of the SDK.
 
+## 3.1.12 (10/14/2020)
+* Supports iOS 14.
+* Using latest api "serviceCurrentRadioAccessTechnology" from CoreTelephony framework to detect cellular connection type for iOS 13 and above.
+* Does not collect Advertising Identifier to comply with Apple guide lines
+
+## 3.0.12 (10/14/2020)
+* Supports iOS 14.
+* Using latest api "serviceCurrentRadioAccessTechnology" from CoreTelephony framework to detect cellular connection type for iOS 13 and above.
+* Using "AppTrackingTransparency" to collect Advertising Identifier from iOS/tvOS 14 and above
+* Supports Advertising identifier collection
+
 ## 3.1.11 (06/25/2020)
 * Support for auto detection of connection type (Ethernet) in tvOS.
 * Bug Fixes.
