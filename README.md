@@ -1,6 +1,6 @@
 # ConvivaAVFoundation Framework
 
-The ConvivaAVFoundation Framework supports cocoapods and manual installation. The library is delivered as Static Framework and deployment is supported on iOS 12 and above.**Supports iOS14 as well.**
+The ConvivaAVFoundation Framework supports cocoapods and manual installation. The library is delivered as Static Framework and deployment is supported on iOS 12 and above.**Supports iOS/tvOS 14 as well.**
 
 ## Migrating from Pre 3.0.0 version
 For customers who have already integrated pre 3.0.0 version of Conviva library, we recommend them to migrate to the latest 
