@@ -19,11 +19,9 @@
 
 
 ## 4.0.4/4.0.5 (07/15/2020)
-
 * Fixes attachplayer issue when pausemonitor and attachstreamer methods are called back to back for legacy integration
 
 ## 4.0.2/4.0.3 (06/25/2020)
-
 * Support for auto detection of connection type (Ethernet) in tvOS.
 * Uses 2.143.xx series versioning for older integrations that uses Core SDK version 4.x.x+.
 * Bug Fixes.
@@ -31,6 +29,10 @@
 ## 4.0.0/4.0.1 (05/29/2020)
 * Introduces a major upgrade to the SDK architecture that simplifies and accelerates Conviva integration.
 * Introduces CISAnalytics, CISVideoAnalytics, and CISAdAnalytics to simplify the integration of the SDK.
+
+## 3.0.13 (01/15/2021)
+* Fixes an inconsistent crash on switching from one content to other during playback
+* Supports Advertising identifier collection.
 
 ## 3.1.12 (10/14/2020)
 * Supports iOS 14.
