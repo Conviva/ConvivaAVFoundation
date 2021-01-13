@@ -30,9 +30,13 @@
 * Introduces a major upgrade to the SDK architecture that simplifies and accelerates Conviva integration.
 * Introduces CISAnalytics, CISVideoAnalytics, and CISAdAnalytics to simplify the integration of the SDK.
 
+## 3.1.13 (01/15/2021)
+* Fixes an inconsistent crash on switching from one content to other during playback
+* Does not collect Advertising Identifier to comply with Apple guide lines
+
 ## 3.0.13 (01/15/2021)
 * Fixes an inconsistent crash on switching from one content to other during playback
-* Supports Advertising identifier collection.
+* Supports Advertising identifier collection
 
 ## 3.1.12 (10/14/2020)
 * Supports iOS 14.
