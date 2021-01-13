@@ -1,8 +1,12 @@
 # Changelog
 
+## 4.0.9 (01/15/2021)
+* Fixes an inconsistent crash on switching from one content to other during playback
+* Does not collect Advertising Identifier to comply with Apple guide lines.
+
 ## 4.0.8 (01/15/2021)
 * Fixes an inconsistent crash on switching from one content to other during playback
-* Supports Advertising identifier collection.
+* Supports Advertising identifier collection
 
 ## 4.0.7 (10/07/2020)
 * Supports iOS 14.
