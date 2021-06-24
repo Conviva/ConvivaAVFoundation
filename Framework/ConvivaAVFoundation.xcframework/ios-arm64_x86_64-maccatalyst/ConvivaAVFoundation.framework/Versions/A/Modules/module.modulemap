@@ -1,0 +1,6 @@
+framework module ConvivaAVFoundation {
+  umbrella header "ConvivaAVFoundation-umbrella.h"
+
+  export *
+  module * { export * }
+}
