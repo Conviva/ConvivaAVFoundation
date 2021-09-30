@@ -16,18 +16,18 @@ release 3.0.3. Please follow these two steps to migrate to 3.0.3 version
     Add the following line to your pod file and run 'pod install'
 
     // Without Advertising Identifier(IDFA) support
-    pod 'ConvivaAVFoundation','4.0.17'
+    pod 'ConvivaAVFoundation','4.0.19'
 
     OR 
 
     // With Advertising Identifier(IDFA) support
-    pod 'ConvivaAVFoundation','4.0.16'
+    pod 'ConvivaAVFoundation','4.0.18'
 
 ## Swift Package Manager Installation
 1. Add the Package Dependency repository URL as https://github.com/Conviva/conviva-ios-avfoundation-spm
 2. Select version as:
-    * 4.0.16 if it's with Advertising Identifier Support.
-    * 4.0.17 if it's without Advertising Identifier Support.
+    * 4.0.18 if it's with Advertising Identifier Support.
+    * 4.0.19 if it's without Advertising Identifier Support.
 
 ## Manual Installation
 To add the ConvivaAVFoundation library to your project manually:
@@ -37,14 +37,14 @@ Note: **We recommend to include the ConvireCore (or) ConvivaSDK and ConvivaAVFou
 1.	Download the latest ConvivaSDK/ConvivaCore from below paths.
 
     * ConvivaSDK
-      * [Without Advertising Identifier(IDFA) support](https://github.com/Conviva/ConvivaSDK/archive/4.0.17.zip)
+      * [Without Advertising Identifier(IDFA) support](https://github.com/Conviva/ConvivaSDK/archive/4.0.19.zip)
       OR
-      * [With Advertising Identifier(IDFA) support](https://github.com/Conviva/ConvivaSDK/archive/4.0.16.zip) 
+      * [With Advertising Identifier(IDFA) support](https://github.com/Conviva/ConvivaSDK/archive/4.0.18.zip) 
 
 2.	Download the latest ConvivaAVFoundation Module from below path.
-    * [Without Advertising Identifier(IDFA) support](https://github.com/Conviva/ConvivaAVFoundation/archive/4.0.17.zip)
+    * [Without Advertising Identifier(IDFA) support](https://github.com/Conviva/ConvivaAVFoundation/archive/4.0.19.zip)
     OR
-    * [With Advertising Identifier(IDFA) support](https://github.com/Conviva/ConvivaAVFoundation/archive/4.0.16.zip)
+    * [With Advertising Identifier(IDFA) support](https://github.com/Conviva/ConvivaAVFoundation/archive/4.0.18.zip)
 
 3.	Unzip the package and add ConvivaSDK.xcframework and ConvivaAVFoundation.xcframework to “Link Binary with Libraries” under build phase.
 
