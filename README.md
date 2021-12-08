@@ -16,18 +16,18 @@ release 3.0.3. Please follow these two steps to migrate to 3.0.3 version
     Add the following line to your pod file and run 'pod install'
 
     // Without Advertising Identifier(IDFA) support
-    pod 'ConvivaAVFoundation','4.0.23'
+    pod 'ConvivaAVFoundation','4.0.21'
 
     OR 
 
     // With Advertising Identifier(IDFA) support
-    pod 'ConvivaAVFoundation','4.0.22'
+    pod 'ConvivaAVFoundation','4.0.20'
 
 ## Swift Package Manager Installation
 1. Add the Package Dependency repository URL as https://github.com/Conviva/conviva-ios-avfoundation-spm
 2. Select version as:
-    * 4.0.22 if it's with Advertising Identifier Support.
-    * 4.0.23 if it's without Advertising Identifier Support.
+    * 4.0.20 if it's with Advertising Identifier Support.
+    * 4.0.21 if it's without Advertising Identifier Support.
 
 ## Manual Installation
 To add the ConvivaAVFoundation library to your project manually:
@@ -42,9 +42,9 @@ Note: **We recommend to include the ConvireCore (or) ConvivaSDK and ConvivaAVFou
       * [With Advertising Identifier(IDFA) support](https://github.com/Conviva/ConvivaSDK/archive/4.0.22.zip) 
 
 2.	Download the latest ConvivaAVFoundation Module from below path.
-    * [Without Advertising Identifier(IDFA) support](https://github.com/Conviva/ConvivaAVFoundation/archive/4.0.23.zip)
+    * [Without Advertising Identifier(IDFA) support](https://github.com/Conviva/ConvivaAVFoundation/archive/4.0.21.zip)
     OR
-    * [With Advertising Identifier(IDFA) support](https://github.com/Conviva/ConvivaAVFoundation/archive/4.0.22.zip)
+    * [With Advertising Identifier(IDFA) support](https://github.com/Conviva/ConvivaAVFoundation/archive/4.0.20.zip)
 
 3.	Unzip the package and add ConvivaSDK.xcframework and ConvivaAVFoundation.xcframework to “Link Binary with Libraries” under build phase.
 
