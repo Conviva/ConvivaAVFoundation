@@ -1,5 +1,10 @@
 # Changelog
 
+## 4.0.22 (02/14/2022)
+
+* Internal improvements
+* Supports Advertising identifier collection.
+
 ## 4.0.21 (08/12/2021)
 
 * Marked Legacy integration (2.x) API’s as deprecated.
