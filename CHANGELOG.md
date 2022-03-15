@@ -1,5 +1,15 @@
 # Changelog
 
+## 4.0.25 (03/15/2022)
+
+* Internal improvements
+* Does not collect Advertising Identifier to comply with Apple guide lines.
+
+## 4.0.24 (03/15/2022)
+
+* Internal improvements
+* Supports Advertising identifier collection.
+
 ## 4.0.23 (02/14/2022)
 
 * Internal improvements
