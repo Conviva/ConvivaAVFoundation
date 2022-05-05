@@ -1,5 +1,15 @@
 # Changelog
 
+## 4.0.27 (05/05/2022)
+
+* Enabled mechanism to disable auto collection of framerate.Add "conviva_disable_average_framerate_auto_collection" as a boolean in app's info.plist and set it as true to disable.
+* Does not collect Advertising Identifier to comply with Apple guide lines.
+
+## 4.0.26 (05/05/2022)
+
+* Enabled mechanism to disable auto collection of framerate.Add "conviva_disable_average_framerate_auto_collection" as a boolean in app's info.plist and set it as true to disable.
+* Supports Advertising identifier collection.
+
 ## 4.0.25 (03/15/2022)
 
 * Internal improvements
