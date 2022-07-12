@@ -1,5 +1,15 @@
 # Changelog
 
+## 4.0.31 (07/12/2022)
+
+* Internal improvements.
+* Does not collect Advertising Identifier to comply with Apple guide lines.
+
+## 4.0.30 (07/12/2022)
+
+* Internal improvements.
+* Supports Advertising identifier collection.
+
 ## 4.0.29 (05/24/2022)
 
 * Fixed random crash issue on asset change.
