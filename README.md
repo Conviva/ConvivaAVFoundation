@@ -16,18 +16,18 @@ release 3.0.3. Please follow these two steps to migrate to 3.0.3 version
     Add the following line to your pod file and run 'pod install'
 
     // Without Advertising Identifier(IDFA) support
-    pod 'ConvivaAVFoundation','4.0.31'
+    pod 'ConvivaAVFoundation','4.0.33'
 
     OR 
 
     // With Advertising Identifier(IDFA) support
-    pod 'ConvivaAVFoundation','4.0.30'
+    pod 'ConvivaAVFoundation','4.0.32'
 
 ## Swift Package Manager Installation
 1. Add the Package Dependency repository URL as https://github.com/Conviva/conviva-ios-avfoundation-spm
 2. Select version as:
-    * 4.0.30 if it's with Advertising Identifier Support.
-    * 4.0.31 if it's without Advertising Identifier Support.
+    * 4.0.32 if it's with Advertising Identifier Support.
+    * 4.0.33 if it's without Advertising Identifier Support.
 
 ## Manual Installation
 To add the ConvivaAVFoundation library to your project manually:
