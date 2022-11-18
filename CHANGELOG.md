@@ -1,6 +1,6 @@
 # Changelog
 
-## 4.0.37 (11/18/2022)
+## 4.0.39 (11/18/2022)
 
 * Fixed an issue for metrics collection when setPlayer is called before having a valid playerItem on AVPlayer.
 * Fixed an issue for bitrate reporting on switching from one content to another using AVQueuePlayer.
