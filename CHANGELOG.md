@@ -1,5 +1,17 @@
 # Changelog
 
+## 4.0.37 (11/18/2022)
+
+* Fixed an issue for metrics collection when setPlayer is called before having a valid playerItem on AVPlayer.
+* Fixed an issue for bitrate reporting on switching from one content to another using AVQueuePlayer.
+* Does not collect Advertising Identifier to comply with Apple guide lines.
+
+## 4.0.36 (11/18/2022)
+
+* Fixed an issue for metrics collection when setPlayer is called before having a valid playerItem on AVPlayer.
+* Fixed an issue for bitrate reporting on switching from one content to another using AVQueuePlayer.
+* Supports Advertising identifier collection.
+
 ## 4.0.35 (09/21/2022)
 
 * Supports iOS 16.
