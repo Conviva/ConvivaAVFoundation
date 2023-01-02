@@ -26,8 +26,8 @@ release 3.0.3. Please follow these two steps to migrate to 3.0.3 version
 ## Swift Package Manager Installation
 1. Add the Package Dependency repository URL as https://github.com/Conviva/conviva-ios-avfoundation-spm
 2. Select version as:
-    * 4.0.41 if it's with Advertising Identifier Support.
-    * 4.0.40 if it's without Advertising Identifier Support.
+    * 4.0.40 if it's with Advertising Identifier Support.
+    * 4.0.41 if it's without Advertising Identifier Support.
 
 ## Manual Installation
 To add the ConvivaAVFoundation library to your project manually:
