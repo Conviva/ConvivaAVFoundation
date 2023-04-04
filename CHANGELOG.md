@@ -1,8 +1,13 @@
 # Changelog
 
-## 4.0.42 (04/04/2023)
+## 4.0.43 (04/04/2023)
 * Introduces new keys CIS_SSDK_PLAYBACK_METRIC_AUDIO_LANGUAGE, CIS_SSDK_PLAYBACK_METRIC_SUBTITLES_LANGUAGE, CIS_SSDK_PLAYBACK_METRIC_CLOSED_CAPTIONS_LANGUAGE within reportPlaybackMetric() API for setting audio track changes, subtitle track changes and closed caption track changes respectively.
 * Does not collect Advertising Identifier to comply with Apple guide lines.
+
+
+## 4.0.42 (04/04/2023)
+* Introduces new keys CIS_SSDK_PLAYBACK_METRIC_AUDIO_LANGUAGE, CIS_SSDK_PLAYBACK_METRIC_SUBTITLES_LANGUAGE, CIS_SSDK_PLAYBACK_METRIC_CLOSED_CAPTIONS_LANGUAGE within reportPlaybackMetric() API for setting audio track changes, subtitle track changes and closed caption track changes respectively.
+* Supports Advertising identifier collection.
 
 ## 4.0.41 (01/02/2023)
 * Fixed an issue where connection type is not reported properly for mobile netwoek.
