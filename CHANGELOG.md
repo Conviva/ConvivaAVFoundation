@@ -1,5 +1,15 @@
 # Changelog
 
+## 4.0.47 (09/10/2023)
+* Supports iOS/tvOS 17
+* Supports Core SDK 4.0.41
+* Does not collect Advertising Identifier to comply with Apple guide lines.
+
+## 4.0.46 (09/10/2023)
+* Supports iOS/tvOS 17
+* Supports Core SDK 4.0.40
+* Supports Advertising identifier collection.
+
 ## 4.0.45 (06/12/2023)
 * Supports Core SDK 4.0.39
 * Does not collect Advertising Identifier to comply with Apple guide lines.
