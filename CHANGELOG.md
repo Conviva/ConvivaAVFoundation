@@ -1,5 +1,9 @@
 # Changelog
 
+## 4.0.49 (01/11/2024)
+* Privacy manifest file support is added.
+* Does not collect Advertising Identifier to comply with Apple guide lines.
+
 ## 4.0.47 (09/10/2023)
 * Supports iOS/tvOS 17
 * Supports Core SDK 4.0.41

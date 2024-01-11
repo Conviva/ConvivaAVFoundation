@@ -16,7 +16,7 @@ release 3.0.3. Please follow these two steps to migrate to 3.0.3 version
     Add the following line to your pod file and run 'pod install'
 
     // Without Advertising Identifier(IDFA) support
-    pod 'ConvivaAVFoundation','4.0.47'
+    pod 'ConvivaAVFoundation','4.0.49'
 
     OR 
 
@@ -27,7 +27,7 @@ release 3.0.3. Please follow these two steps to migrate to 3.0.3 version
 1. Add the Package Dependency repository URL as https://github.com/Conviva/conviva-ios-avfoundation-spm
 2. Select version as:
     * 4.0.46 if it's with Advertising Identifier Support.
-    * 4.0.47 if it's without Advertising Identifier Support.
+    * 4.0.49 if it's without Advertising Identifier Support.
 
 ## Manual Installation
 To add the ConvivaAVFoundation library to your project manually:
@@ -37,12 +37,12 @@ Note: **We recommend to include the ConvireCore (or) ConvivaSDK and ConvivaAVFou
 1.	Download the latest ConvivaSDK/ConvivaCore from below paths.
 
     * ConvivaSDK
-      * [Without Advertising Identifier(IDFA) support](https://github.com/Conviva/ConvivaSDK/archive/4.0.41.zip)
+      * [Without Advertising Identifier(IDFA) support](https://github.com/Conviva/ConvivaSDK/archive/4.0.43.zip)
       OR
       * [With Advertising Identifier(IDFA) support](https://github.com/Conviva/ConvivaSDK/archive/4.0.40.zip) 
 
 2.	Download the latest ConvivaAVFoundation Module from below path.
-    * [Without Advertising Identifier(IDFA) support](https://github.com/Conviva/ConvivaAVFoundation/archive/4.0.47.zip)
+    * [Without Advertising Identifier(IDFA) support](https://github.com/Conviva/ConvivaAVFoundation/archive/4.0.49.zip)
     OR
     * [With Advertising Identifier(IDFA) support](https://github.com/Conviva/ConvivaAVFoundation/archive/4.0.46.zip)
 
