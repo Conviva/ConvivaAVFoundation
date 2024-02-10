@@ -1,5 +1,9 @@
 # Changelog
 
+## 4.0.51 (02/10/2024)
+* Supports VisionOS 1.0.
+* Does not collect Advertising Identifier to comply with Apple guide lines.
+
 ## 4.0.49 (01/11/2024)
 * Privacy manifest file support is added.
 * Does not collect Advertising Identifier to comply with Apple guide lines.
