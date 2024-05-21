@@ -1,5 +1,10 @@
 # Changelog
 
+## 4.0.53 (05/21/2024)
+* Fixed an issue for average bitrate reporting on switching from one content to another.
+* Fixes an inconsistent crash on subtitles/audio language change.
+* Does not collect Advertising Identifier to comply with Apple guide lines.
+
 ## 4.0.51 (02/10/2024)
 * Supports VisionOS 1.0.
 * Does not collect Advertising Identifier to comply with Apple guide lines.
