@@ -1,5 +1,9 @@
 # Changelog
 
+## 4.0.55 (07/24/2024)
+* Minor Improvements.
+* Does not collect Advertising Identifier to comply with Apple guide lines.
+
 ## 4.0.53 (05/21/2024)
 * Fixed an issue for average bitrate reporting on switching from one content to another.
 * Fixes an inconsistent crash on subtitles/audio language change.

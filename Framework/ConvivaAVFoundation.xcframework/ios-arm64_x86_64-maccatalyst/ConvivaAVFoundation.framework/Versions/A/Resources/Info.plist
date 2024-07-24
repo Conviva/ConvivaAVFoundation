@@ -17,7 +17,7 @@
 	<key>CFBundlePackageType</key>
 	<string>FMWK</string>
 	<key>CFBundleShortVersionString</key>
-	<string>4.0.53</string>
+	<string>4.0.55</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -41,7 +41,7 @@
 	<key>DTXcode</key>
 	<string>1540</string>
 	<key>DTXcodeBuild</key>
-	<string>15F31c</string>
+	<string>15F31d</string>
 	<key>LSMinimumSystemVersion</key>
 	<string>10.15</string>
 	<key>UIDeviceFamily</key>

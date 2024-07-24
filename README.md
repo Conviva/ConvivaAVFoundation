@@ -16,7 +16,7 @@ release 3.0.3. Please follow these two steps to migrate to 3.0.3 version
     Add the following line to your pod file and run 'pod install'
 
     // Without Advertising Identifier(IDFA) support
-    pod 'ConvivaAVFoundation','4.0.53'
+    pod 'ConvivaAVFoundation','4.0.55'
 
     OR 
 
@@ -42,7 +42,7 @@ Note: **We recommend to include the ConvireCore (or) ConvivaSDK and ConvivaAVFou
       * [With Advertising Identifier(IDFA) support](https://github.com/Conviva/ConvivaSDK/archive/4.0.40.zip) 
 
 2.	Download the latest ConvivaAVFoundation Module from below path.
-    * [Without Advertising Identifier(IDFA) support](https://github.com/Conviva/ConvivaAVFoundation/archive/4.0.53.zip)
+    * [Without Advertising Identifier(IDFA) support](https://github.com/Conviva/ConvivaAVFoundation/archive/4.0.55.zip)
     OR
     * [With Advertising Identifier(IDFA) support](https://github.com/Conviva/ConvivaAVFoundation/archive/4.0.46.zip)
 
