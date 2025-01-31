@@ -1,5 +1,9 @@
 # Changelog
 
+## 4.0.58 (01/29/2025)
+* Minor Improvements.
+* Does not collect Advertising Identifier to comply with Apple guide lines.
+
 ## 4.0.57 (11/11/2024)
 * Minor Improvements.
 * Does not collect Advertising Identifier to comply with Apple guide lines.
