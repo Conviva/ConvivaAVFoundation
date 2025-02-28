@@ -10,7 +10,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		KLp7YevoW7BVa8/Qt0f7hzd0s/E=
+		BROazx6fnnMbXeG8kPIF2dCTk+w=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -18,7 +18,7 @@
 		</data>
 		<key>PrivateHeaders/AVFoundationStreamerProxy.h</key>
 		<data>
-		QKmQeGU+wxMKBOuHFIrVM4Z6ChM=
+		93zxggGlVnKQ+onug3n73pmvSac=
 		</data>
 		<key>PrivateHeaders/AVPlayer+ConvivaFactory.h</key>
 		<data>
@@ -57,11 +57,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			QKmQeGU+wxMKBOuHFIrVM4Z6ChM=
+			93zxggGlVnKQ+onug3n73pmvSac=
 			</data>
 			<key>hash2</key>
 			<data>
-			9eZCbK9rlhoIeJfEwnEhqvAj59XR8ZDIzsYbhmJ3fs8=
+			swIU6z7sTKwvJP6wwAtDR0bx1FtL/JZsn2Knjbedo1w=
 			</data>
 		</dict>
 		<key>PrivateHeaders/AVPlayer+ConvivaFactory.h</key>

@@ -1,5 +1,10 @@
 # Changelog
 
+## 4.1.0 (02/28/2025)
+* Minor Improvements.
+* Added support for continuous play state reporting after video recovery from fatal errors. By setting the option {CIS_SDK_OPTION_SHOULD_CONTINUE_ON_VIDEO_FAILURE: @(YES)} while creating using the createVideoAnalytics API, Conviva will continue reporting play state changes even after a video failure and subsequent recovery.
+* Does not collect Advertising Identifier to comply with Apple guide lines.
+
 ## 4.0.58 (01/29/2025)
 * Minor Improvements.
 * Does not collect Advertising Identifier to comply with Apple guide lines.

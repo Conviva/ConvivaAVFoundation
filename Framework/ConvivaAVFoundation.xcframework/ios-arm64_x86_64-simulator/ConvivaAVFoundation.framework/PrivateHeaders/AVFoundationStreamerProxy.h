@@ -19,6 +19,7 @@
 
 - (instancetype)initWithStreamer:(AVPlayer *)streamer
             playerEventsListener:(CISPlayerEventsListener)playerEventsListener
-                          logger:(id<CISLoggerProtocol>)logger;
+                          logger:(id<CISLoggerProtocol>)logger
+           shouldAllowVideoRetry:(BOOL)shouldAllowVideoRetry;
 
 @end
