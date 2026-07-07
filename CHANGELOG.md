@@ -1,5 +1,8 @@
 # Changelog
 
+## 4.3.4 (07/07/2026)
+* Internal Improvements.
+
 ## 4.3.3 (07/07/2026)
 * Internal Improvements.
 

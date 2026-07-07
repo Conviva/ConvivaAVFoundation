@@ -10,7 +10,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		nvy2p2+mcMZqr/trJiQzid0R6AY=
+		YxJM09Ksq/dJ5ErHTkqSd55FcEE=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -33,10 +33,6 @@
 	<dict>
 		<key>Headers/ConvivaAVFoundation-umbrella.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			TTZ+10CqptWQRvTtkKdlnx0i+W0=
-			</data>
 			<key>hash2</key>
 			<data>
 			aY477aolvA1PZPFHEDKwke3cr/cg0K0j+YBQKuVHU6M=
@@ -44,10 +40,6 @@
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			npA1kRUWa76nRaHBQ3P7dOskoLw=
-			</data>
 			<key>hash2</key>
 			<data>
 			3VvJ2YG0WY7Qfptg8IhAEtY6DPs28WRC/jZ0ylFqm/c=
@@ -55,10 +47,6 @@
 		</dict>
 		<key>PrivateHeaders/AVFoundationStreamerProxy.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			93zxggGlVnKQ+onug3n73pmvSac=
-			</data>
 			<key>hash2</key>
 			<data>
 			swIU6z7sTKwvJP6wwAtDR0bx1FtL/JZsn2Knjbedo1w=
@@ -66,10 +54,6 @@
 		</dict>
 		<key>PrivateHeaders/AVPlayer+ConvivaFactory.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			2y3XkpeuZQTUYe/DRLxwuVjnYJI=
-			</data>
 			<key>hash2</key>
 			<data>
 			wtl5PyTjodmCwDxeSM+JgDsSope21Ix6pPA39D3XTe0=
@@ -77,10 +61,6 @@
 		</dict>
 		<key>PrivateHeaders/NativeStreamerProxy.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			hNqh5qA989ZiWJHiVtQmo2W1izo=
-			</data>
 			<key>hash2</key>
 			<data>
 			H1WHWW1yU2cnNnTgvmBHs9T4BhHn4aAAcvlBmfp3Whs=
